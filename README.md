@@ -2,7 +2,7 @@ A very basic Docker Hello World
 
 Using Denbian Linux distribution, running apache and php. 
 
-Port 80 is exposed on the Image, so when running the container using
+Port 80 is exposed on the Image, so when running the container using (where hello-world is the name of the container)
 
 ```
 docker run -p 80:80 hello-world
