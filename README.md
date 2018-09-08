@@ -16,5 +16,3 @@ docker run -p 80:80 -v <location of src folder>:/var/www/html hello-world
 ```
 
 To see the above in action, make a change to the .php file in `src/` save these changes and refresh the browser at `localhost:80` (with the container running). You will see the changes made in the .php file reflected on screen.
-
-Created watching https://www.youtube.com/watch?v=YFl2mCHdv24
